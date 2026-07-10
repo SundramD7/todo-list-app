@@ -25,4 +25,4 @@ A simple and responsive To-Do List web application built using HTML, CSS, and Ja
 ## 👨‍💻 Author
 **Sundram Dwivedi**
 - GitHub: https://github.com/SundramD7
-- LinkedIn: https://www.linkedin.com/in/dubeysundram
+- LinkedIn: https://www.linkedin.com/in/sundramd7
